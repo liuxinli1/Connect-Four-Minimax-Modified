@@ -1,5 +1,7 @@
 # Connect-Four-Minimax-Modified
 
+Python 3.8
+
 To run play the connect four, run Connect4.py
 
 To playt the game, type in the number of column that you want to place the Token
